@@ -28,7 +28,7 @@
     - destroy: destroyed an extra Werewolf instance that was accidentally created in update section.
 
 
-## story 2 Branch: sighting-crud-actions
+## Story 2 Branch: sighting-crud-actions
 - commands used: 
     $rails g resource Sighting animal_id:integer latitude:float longitude:float date:date
     $rails db:migrate
@@ -40,3 +40,10 @@
     - create: created 2 new sighting instances for Werewof
     - update: Updated the date on id#7 Werewolf sighting instance
     - destroy: destroyed id#6 Werewolf sighting instance
+
+
+## Story 3 Branch: animal-sightings-reports
+- commands used:
+    $
+- Steps
+    -
